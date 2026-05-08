@@ -1,5 +1,10 @@
 PDF Studio Pro
 
+<img width="1600" height="929" alt="WhatsApp Image 2026-05-08 at 10 05 54" src="https://github.com/user-attachments/assets/b17a6a4f-ca6c-432d-a561-62fb024f7350" />
+<img width="1600" height="932" alt="WhatsApp Image 2026-05-08 at 10 05 54(1)" src="https://github.com/user-attachments/assets/53c5539a-a2d1-4192-afda-c9c9ad075a76" />
+
+
+
 Modern, hızlı ve tamamen offline çalışan masaüstü PDF dönüştürücü.
 CustomTkinter tabanlı modern arayüz ile PDF işlemlerini internet bağlantısı olmadan bilgisayarınızda gerçekleştirebilirsiniz.
 
