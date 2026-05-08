@@ -1,6 +1,7 @@
 """
 PDF Studio Pro - Modern PDF Converter
 Tamamen offline çalışır | CustomTkinter tabanlı
+Ağ bağlantısı gerekmeden lokalde kullanabileceğiniz ilovepdf-smallpdf ihtiyacınız gerekmiyor artık
 """
 
 import customtkinter as ctk
