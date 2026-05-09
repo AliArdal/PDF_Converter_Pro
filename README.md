@@ -2,10 +2,16 @@
 
 Modern, tamamen offline çalışan masaüstü PDF dönüştürücü.
 
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-4F8EF7?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-3DD68C?style=flat-square)
 ![Offline](https://img.shields.io/badge/Mod-100%25_Offline-F7C948?style=flat-square)
+
+
+<img width="1600" height="929" alt="WhatsApp Image 2026-05-08 at 10 05 54" src="https://github.com/user-attachments/assets/c47505c8-572d-4be3-af6e-a97909696986" />
+<img width="1600" height="932" alt="WhatsApp Image 2026-05-08 at 10 05 54(1)" src="https://github.com/user-attachments/assets/1109dc46-c1fe-4fa2-bdad-0acec9e8abad" />
+
 
 ---
 
