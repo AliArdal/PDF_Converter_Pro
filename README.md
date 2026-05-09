@@ -105,6 +105,4 @@ brew install libreoffice       # macOS
 
 ---
 
-## Lisans
 
-MIT License
